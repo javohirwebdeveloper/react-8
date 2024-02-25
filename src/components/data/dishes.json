@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Sho'rva",
+    "category": "Shirinlik",
+    "price": 15000,
+    "stock": 20,
+    "image": "https://cdn.loveandlemons.com/wp-content/uploads/2021/12/party-food-500x500.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Manti",
+    "category": "Tovuq",
+    "price": 25000,
+    "stock": 15,
+    "image": "https://www.eatingbirdfood.com/wp-content/uploads/2022/03/super-food-salmon-salad-hero-500x500.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Somsa",
+    "category": "Gosht",
+    "price": 10000,
+    "stock": 25,
+    "image": "https://images.pexels.com/photos/699953/pexels-photo-699953.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": 4,
+    "name": "Plov",
+    "category": "Osh",
+    "price": 20000,
+    "stock": 10,
+    "image": "https://www.eatingwell.com/thmb/TouzLyuFtJZ210t2sUWO3hVKc34=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6956376-4ddec4695cd3404e85c83f4d177b3114.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Lag'mon",
+    "category": "Makaron",
+    "price": 18000,
+    "stock": 12,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 6,
+    "name": "Shashlik",
+    "category": "Kebab",
+    "price": 30000,
+    "stock": 8,
+    "image": "https://www.foodiesfeed.com/wp-content/uploads/2023/10/mediterranean-chickpea-salad.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Halva",
+    "category": "Shirinlik",
+    "price": 12000,
+    "stock": 18,
+    "image": "https://www.foodiesfeed.com/wp-content/uploads/2023/05/juicy-cheeseburger.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Chuchvara",
+    "category": "Tovuq",
+    "price": 22000,
+    "stock": 14,
+    "image": "https://w7.pngwing.com/pngs/920/190/png-transparent-greek-salad-frying-pan-food-caesar-salad-salad-bowl-thumbnail.png"
+  },
+  {
+    "id": 9,
+    "name": "Non",
+    "category": "Non",
+    "price": 5000,
+    "stock": 30,
+    "image": "https://w7.pngwing.com/pngs/535/859/png-transparent-italian-cuisine-pasta-organic-food-restaurant-foods-food-recipe-cooking-thumbnail.png"
+  },
+  {
+    "id": 10,
+    "name": "Qozonkabob",
+    "category": "Gosht",
+    "price": 28000,
+    "stock": 9,
+    "image": "https://w7.pngwing.com/pngs/319/731/png-transparent-cafe-food-barbecue-grill-chicken-dish-grilled-food-animals-seafood-recipe-thumbnail.png"
+  },
+  {
+    "id": 11,
+    "name": "Dimlama",
+    "category": "Osh",
+    "price": 24000,
+    "stock": 11,
+    "image": "https://w7.pngwing.com/pngs/375/121/png-transparent-pizza-with-tomatos-new-york-style-pizza-italian-cuisine-take-out-pizza-margherita-pizza-food-recipe-pizza-logo-thumbnail.png"
+  },
+  {
+    "id": 12,
+    "name": "Norin",
+    "category": "Makaron",
+    "price": 26000,
+    "stock": 13,
+    "image": "https://w7.pngwing.com/pngs/979/723/png-transparent-pizza-sausage-pizza-margherita-hamburger-calzone-sausage-pizza-food-baking-recipe-thumbnail.png"
+  },
+  {
+    "id": 13,
+    "name": "Kabob",
+    "category": "Kebab",
+    "price": 32000,
+    "stock": 7,
+    "image": "https://w7.pngwing.com/pngs/745/661/png-transparent-sashimi-japanese-cuisine-sushi-smoked-salmon-makizushi-sushi-food-seafood-recipe-thumbnail.png"
+  },
+  {
+    "id": 14,
+    "name": "Napoleon",
+    "category": "Shirinlik",
+    "price": 16000,
+    "stock": 16,
+    "image": "https://w7.pngwing.com/pngs/45/864/png-transparent-thai-cuisine-asian-cuisine-take-out-pav-bhaji-dish-prawn-food-seafood-recipe-thumbnail.png"
+  },
+  {
+    "id": 15,
+    "name": "Sutliq",
+    "category": "Shirinlik",
+    "price": 8000,
+    "stock": 20,
+    "image": "https://w7.pngwing.com/pngs/237/929/png-transparent-cooked-fish-with-asparagus-barbecue-taco-salmon-grilling-recipe-grilled-food-leaf-vegetable-food-seafood-thumbnail.png"
+  },
+  {
+    "id": 16,
+    "name": "Qovurma",
+    "category": "Gosht",
+    "price": 27000,
+    "stock": 10,
+    "image": "https://w7.pngwing.com/pngs/298/846/png-transparent-greek-salad-chicken-salad-salad-nicoise-fast-food-tuna-salad-salad-leaf-vegetable-food-recipe-thumbnail.png"
+  },
+  {
+    "id": 17,
+    "name": "Qatiq",
+    "category": "Sut",
+    "price": 10000,
+    "stock": 15,
+    "image": "https://w7.pngwing.com/pngs/534/478/png-transparent-crudites-salad-story-leaf-vegetable-vegetarian-cuisine-salad-thumbnail.png"
+  },
+  {
+    "id": 18,
+    "name": "Sut",
+    "category": "Sut",
+    "price": 8000,
+    "stock": 18,
+    "image": "https://w7.pngwing.com/pngs/828/396/png-transparent-noodles-with-lime-in-plate-thai-cuisine-pad-thai-dish-chinese-noodles-asian-cuisine-thai-food-seafood-recipe-thumbnail.png"
+  },
+  {
+    "id": 19,
+    "name": "Choy",
+    "category": "Ichimlik",
+    "price": 5000,
+    "stock": 25,
+    "image": "https://w7.pngwing.com/pngs/226/779/png-transparent-pepperoni-pizza-illustration-against-blue-background-pizza-italian-cuisine-fast-food-logo-cartoon-pizza-logo-design-cartoon-character-food-recipe-thumbnail.png"
+  },
+  {
+    "id": 20,
+    "name": "Kompot",
+    "category": "Ichimlik",
+    "price": 7000,
+    "stock": 20,
+    "image": "https://w1.pngwing.com/pngs/542/691/png-transparent-korean-seafood-fish-italian-cuisine-restaurant-pasta-shellfish-meal-thumbnail.png"
+  },
+  {
+    "id": 21,
+    "name": "Shirin non",
+    "category": "Non",
+    "price": 7000,
+    "stock": 22,
+    "image": "https://w7.pngwing.com/pngs/690/711/png-transparent-plate-of-pasta-and-slice-of-ham-pasta-italian-cuisine-fettuccine-alfredo-marinara-sauce-spaghetti-with-meatballs-spaghetti-food-recipe-tomato-thumbnail.png"
+  },
+  {
+    "id": 22,
+    "name": "Qaymoq",
+    "category": "Sut",
+    "price": 12000,
+    "stock": 14,
+    "image": "https://w7.pngwing.com/pngs/334/1000/png-transparent-sushi-japanese-cuisine-california-roll-makizushi-sashimi-avocado-food-recipe-sashimi-thumbnail.png"
+  },
+  {
+    "id": 23,
+    "name": "Mastava",
+    "category": "Shirinlik",
+    "price": 14000,
+    "stock": 16,
+    "image": "https://w7.pngwing.com/pngs/378/6/png-transparent-greek-salad-caesar-salad-vegetarian-cuisine-italian-cuisine-salad-leaf-vegetable-food-cheese-thumbnail.png"
+  },
+  {
+    "id": 24,
+    "name": "Oshqovoq",
+    "category": "Tovuq",
+    "price": 23000,
+    "stock": 12,
+    "image": "https://w7.pngwing.com/pngs/329/50/png-transparent-vegetable-salad-dish-fruit-salad-israeli-salad-pasta-vegetable-fruit-salad-natural-foods-leaf-vegetable-food-thumbnail.png"
+  },
+  {
+    "id": 25,
+    "name": "Qozon oshi",
+    "category": "Osh",
+    "price": 21000,
+    "stock": 10,
+    "image": "https://w7.pngwing.com/pngs/259/988/png-transparent-whole-pizza-sushi-pizza-italian-cuisine-makizushi-japanese-cuisine-tomato-pizza-food-recipe-pizza-logo-thumbnail.png"
+  },
+  {
+    "id": 26,
+    "name": "Qatiqli non",
+    "category": "Non",
+    "price": 6000,
+    "stock": 24,
+    "image": "https://w7.pngwing.com/pngs/573/665/png-transparent-caridea-oyster-ceviche-dish-restaurant-fish-thumbnail.png"
+  },
+  {
+    "id": 27,
+    "name": "Qovurdoq",
+    "category": "Gosht",
+    "price": 29000,
+    "stock": 8,
+    "image": "https://w7.pngwing.com/pngs/784/383/png-transparent-sashimi-sushi-japanese-cuisine-smoked-salmon-makizushi-sushi-va-sashimi-food-plate-recipe-thumbnail.png"
+  },
+  {
+    "id": 28,
+    "name": "Baliq",
+    "category": "Baliq",
+    "price": 25000,
+    "stock": 15,
+    "image": "https://w7.pngwing.com/pngs/502/330/png-transparent-vegetable-dish-greek-salad-israeli-salad-caprese-salad-tomato-salad-leaf-vegetable-food-recipe-thumbnail.png"
+  },
+  {
+    "id": 29,
+    "name": "Shirchoy",
+    "category": "Ichimlik",
+    "price": 6000,
+    "stock": 20,
+    "image": "https://w7.pngwing.com/pngs/382/973/png-transparent-vegetarian-cuisine-food-diet-salad-home-dishes-leaf-vegetable-food-recipe-thumbnail.png"
+  },
+  {
+    "id": 30,
+    "name": "Sharbat",
+    "category": "Ichimlik",
+    "price": 8000,
+    "stock": 18,
+    "image": "https://w7.pngwing.com/pngs/433/544/png-transparent-sandwich-boiled-egg-and-tomatoes-slices-on-plate-hamburger-breakfast-fast-food-food-plate-top-view-leaf-vegetable-food-recipe-thumbnail.png"
+  }
+]
